@@ -1,0 +1,4 @@
+package: github.com/marstr/experiment1
+import:
+- package: github.com/marstr/experiment2
+- package: github.com/marstr/experiment3

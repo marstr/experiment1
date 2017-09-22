@@ -1,0 +1,16 @@
+hash: 309912bcffe366d7a6790a44e0afbb583b3df4fe2f753809eb253e011e5afce7
+updated: 2017-09-22T16:23:55.2384682-07:00
+imports:
+- name: github.com/marstr/experiment2
+  version: 9b645874e62d80fc38571a2e5ab5fd246a4f31a8
+  subpackages:
+  - print
+- name: github.com/marstr/experiment3
+  version: 81d498537763738e02b5e7c5874d4ed1757da641
+  subpackages:
+  - print
+- name: github.com/marstr/rolledup
+  version: 70a74ac1cd90da24f07ea6dc1a6d7348348d5167
+  subpackages:
+  - experiment2/print
+testImports: []
